@@ -1,6 +1,6 @@
-### **Hi there,I am Sonet Adhikary.Nice to meet you.**
+### **Hi there,I am Sonet Adhikary and I am a developer..**
 
-I am a web developer.My primary stack is **_MERN_** stack.I also work with **_Python(Django)._**
+I am working with web technology.My primary stack is **_MERN_** stack.I also work with **_Python(Django)._**
 
 ![My live stats](https://github-readme-stats.vercel.app/api?username=SonetAD&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
