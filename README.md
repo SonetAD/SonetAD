@@ -3,7 +3,7 @@
 I build scalable mobile applications and backend systems that bring ideas to life.  
 With expertise in **React Native, Expo, Node.js, MongoDB, Firebase, Supabase, and AWS**, I deliver high-performance apps with clean architecture and smooth user experiences.
 
-I work as a freelance developer on [**_Upwork_**](https://www.upwork.com/freelancers/~01d8284c75ae6da053), collaborating with clients worldwide to create impactful digital products.  
+I work as a freelance developer on [**Upwork**](https://www.upwork.com/freelancers/~01d8284c75ae6da053), collaborating with clients worldwide to create impactful digital products.  
 Beyond freelancing, I’m also focused on building my own software startup, turning concepts into real-world solutions.
 
 ---
