@@ -1,11 +1,9 @@
-# 👨‍💻 Sonet Adhikary
-
-**Full-Stack Mobile App Developer | Freelancer | Entrepreneur**
+# 👨‍💻 Full-Stack Mobile App Developer
 
 I build scalable mobile applications and backend systems that bring ideas to life.  
 With expertise in **React Native, Expo, Node.js, MongoDB, Firebase, Supabase, and AWS**, I deliver high-performance apps with clean architecture and smooth user experiences.
 
-I work as a freelance developer on **_Upwork_**, collaborating with clients worldwide to create impactful digital products.  
+I work as a freelance developer on [**_Upwork_**](https://www.upwork.com/freelancers/~01d8284c75ae6da053), collaborating with clients worldwide to create impactful digital products.  
 Beyond freelancing, I’m also focused on building my own software startup, turning concepts into real-world solutions.
 
 ---
@@ -68,11 +66,10 @@ Beyond freelancing, I’m also focused on building my own software startup, turn
 
 [![Upwork](https://img.shields.io/badge/Upwork-FFFFFF?style=for-the-badge&logo=upwork&logoColor=000000)](https://www.upwork.com/freelancers/~01d8284c75ae6da053)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sonetad)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sonet_ad)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonetad)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sonet_ad)
 
 ---
 
-## 📊 GitHub Streak
+## 📊 GitHub Activity Streak
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sonetad&theme=dark&hide_border=false)
