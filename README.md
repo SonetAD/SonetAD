@@ -64,6 +64,7 @@ Beyond freelancing, I’m also focused on building my own software startup, turn
 
 ## 🌐 Connect with Me
 
+[![Website](https://img.shields.io/badge/Website-SonetCraft-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sonetcraft.com/)  
 [![Upwork](https://img.shields.io/badge/Upwork-FFFFFF?style=for-the-badge&logo=upwork&logoColor=000000)](https://www.upwork.com/freelancers/~01d8284c75ae6da053)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sonetad)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sonet_ad)
