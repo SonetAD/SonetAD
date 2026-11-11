@@ -42,7 +42,7 @@ What clients said:
 
 ## Small developer tools
 
-- **[cpyclip](https://github.com/SonetAD/cpyclip)**: a Node.js CLI that copies any file's contents to your clipboard, published on npm. Run it with `npx cpyclip <file>`.
+- **[cpyclip](https://github.com/SonetAD/cpyclip)** ([npm](https://www.npmjs.com/package/cpyclip)): a Node.js CLI that copies any file's contents to your clipboard. Run it with `npx cpyclip <file>`.
 
 ## What I work with
 
