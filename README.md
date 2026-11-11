@@ -8,9 +8,9 @@ Top 10% on Upwork, 100% Job Success. Based in Bangladesh, with 4+ hours' daily o
 
 | Project | What it is | Links |
 |---|---|---|
-| **EngTalk** | My own React Native app for practicing spoken English with strangers over live WebRTC voice calls, with partner matching, signaling and a TURN relay I built myself. 500+ downloads. Code is public, with tests and CI. | [Code](https://github.com/SonetAD/EngTalk) · [Google Play](https://play.google.com/store/apps/details?id=com.sonetadhikary.engtalk) |
-| **CPDASH.AI** | UK AI career platform. I was Head of Engineering for 13 months: mobile app, backend, AI voice agents and document chatbots. | [cpdash.ai](https://cpdash.ai) · [App Store](https://apps.apple.com/us/app/cpdash-ai/id6759450587) · [Google Play](https://play.google.com/store/apps/details?id=ai.cpdash.cpdashai) |
-| **Crato** | My own creator store: Next.js, Supabase and Stripe Connect, with payments going straight to each creator. | [crato.store](https://crato.store) |
+| **[EngTalk](https://github.com/SonetAD/EngTalk)** | My own React Native app for practicing spoken English with strangers over live WebRTC voice calls, with partner matching, signaling and a TURN relay I built myself. 500+ downloads. Code is public, with tests and CI. | [Code](https://github.com/SonetAD/EngTalk) · [Google Play](https://play.google.com/store/apps/details?id=com.sonetadhikary.engtalk) |
+| **[CPDASH.AI](https://cpdash.ai)** | UK AI career platform. I was Head of Engineering for 13 months: mobile app, backend, AI voice agents and document chatbots. | [Website](https://cpdash.ai) · [App Store](https://apps.apple.com/us/app/cpdash-ai/id6759450587) · [Google Play](https://play.google.com/store/apps/details?id=ai.cpdash.cpdashai) |
+| **[Crato](https://crato.store)** | My own creator store: Next.js, Supabase and Stripe Connect, with payments going straight to each creator. | [crato.store](https://crato.store) |
 
 ## Client work on Upwork
 
@@ -30,7 +30,7 @@ What clients said:
 
 > "He owned the overall technical direction of the product, including system architecture, AI-driven features, engineering standards, and delivery execution. … I highly recommend Sonet to any company or founder seeking a senior engineering leader capable of owning both AI-powered products and cross-functional team outcomes."
 >
-> Jennifer Kayode, Founder and CEO of CPDASH.AI, [on LinkedIn](https://www.linkedin.com/in/sonetad/details/recommendations/)
+> Jennifer Kayode, Founder and CEO of [CPDASH.AI](https://cpdash.ai), [on LinkedIn](https://www.linkedin.com/in/sonetad/details/recommendations/)
 
 > "Hired multiple people to complete this project but only he was able to get it done. Anything related to React Native, he is your guy."
 >
