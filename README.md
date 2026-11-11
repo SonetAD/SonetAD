@@ -2,7 +2,9 @@
 
 **Senior React Native developer.** I take mobile apps from idea, or from stuck, to shipped on iOS and Android, and I build the Next.js dashboards and AI features around them.
 
-Top 10% on Upwork, 100% Job Success. Based in Bangladesh, with 4+ hours' daily overlap with US and UK working hours.
+Top Rated on Upwork (its top 10%), 100% Job Success. Based in Bangladesh, with 4+ hours' daily overlap with US and UK working hours.
+
+Good fit if you need a new app built, a stuck app rescued and shipped, or AI features added to an app you already have.
 
 ## Things I've shipped
 
@@ -55,5 +57,7 @@ What clients said:
 You own the code from day one and see working progress every week. I use AI tools to move faster, and I review and test everything before it ships.
 
 ## Get in touch
+
+Email sonet@sonetcraft.com or message me on Upwork. I reply within a few hours with a plain plan, a rough timeline and a price range.
 
 [LinkedIn](https://www.linkedin.com/in/sonetad) · [Upwork](https://www.upwork.com/freelancers/~01d8284c75ae6da053) · [SonetCraft](https://sonetcraft.com)
